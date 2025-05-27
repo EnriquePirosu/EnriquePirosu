@@ -17,7 +17,7 @@
 - 🎧 Listening to music
 - 📺 Watching films or TV series
 
-📬 How to reach me:
+## 📬 How to reach me:
 - ✉️ Email: enriquepirosu75@gmail.com
 
 
