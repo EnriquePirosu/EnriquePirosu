@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🌿 About me:
+# I'm Enrique Pirosu, I'm a student in a technical high school, learning programming and software development.
 
-<!--
-**EnriquePirosu/EnriquePirosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ Skills:
+- 🐍 Programming languages: Python, C, C#
+- 🌐 Web Basics: HTML, CSS, JavaScript
+- 🛠 Tools: GitHub, Flowgorithm, Visual Studio 2022, VS Code
 
-Here are some ideas to get you started:
+## 🎯 Goals:
+- 📈 Improve my programming skills
+- 🌍 Learn about society
+- 🚀 Build projects for my future career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎉 Free time activities:
+- 👥 Hanging out with friends
+- 🎮 Playing videogames
+- 🎧 Listening to music
+- 📺 Watching films or TV series
+
+📬 How to reach me:
+- ✉️ Email: enriquepirosu75@gmail.com
+
+
+🙏 Thank you for taking the time to read about me! 
