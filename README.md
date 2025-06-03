@@ -1,4 +1,4 @@
-# Enrique Pirosu Technical High School Student
+# Enrique Pirosu | Technical High School Student
 ## 🌿 About me:
 - I'm Enrique Pirosu, I'm a student in a technical high school, learning programming and software development.
 
