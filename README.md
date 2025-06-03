@@ -1,5 +1,6 @@
+# Enrique Pirosu
 ## 🌿 About me:
-# I'm Enrique Pirosu, I'm a student in a technical high school, learning programming and software development.
+- I'm Enrique Pirosu, I'm a student in a technical high school, learning programming and software development.
 
 ## 🖥️ Skills:
 - 🐍 Programming languages: Python, C, C#
